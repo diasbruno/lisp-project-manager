@@ -1,4 +1,4 @@
 (defsystem :lpm
   :pathname "apps"
-  :depends-on (:cl-cli)
+  :depends-on (:lpm-cli)
   :components ((:file "main")))
