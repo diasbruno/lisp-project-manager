@@ -1,0 +1,6 @@
+'((production
+   (dependencies
+    (github hankhero/cl-json)))
+  (development
+   (dependencies
+    (github sionescu/fiveam))))
